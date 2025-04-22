@@ -14,26 +14,20 @@
       <change beforePath="$PROJECT_DIR$/MethodsExercise/bin/Debug/net9.0/MethodsExercise.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/bin/Debug/net9.0/MethodsExercise.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/MethodsExercise.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/ref/MethodsExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/ref/MethodsExercise.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/refint/MethodsExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/Debug/net9.0/refint/MethodsExercise.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/MethodsExercise.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/MethodsExercise.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/MethodsExercise.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/MethodsExercise.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodsExercise/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MethodsExercise/obj/project.nuget.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745340766113</updated>
-      <workItem from="1745340766785" duration="1527000" />
+      <workItem from="1745340766785" duration="3635000" />
     </task>
     <servers />
   </component>
