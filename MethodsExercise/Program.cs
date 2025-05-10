@@ -1,36 +1,25 @@
-﻿namespace MethodsExercise
+﻿namespace MethodsExerciseStory
 {
-    public class Program
+    public class Program 
     {
+        public static void Madlib()
+        {
+            Console.WriteLine( "What is your name?");
+            string userName = Console.ReadLine();
+            Console.WriteLine($"Hello, {userName}! What is your favorite color?");
+            string favColor = Console.ReadLine();
+            Console.WriteLine("What is your favorite animal?");
+            string favAnimal = Console.ReadLine();
+            Console.WriteLine("Favorite band?");
+            string favBand = Console.ReadLine();
+
+            Console.WriteLine($"One day, {userName} was walking through the woods wearing a {favColor} t-shirt. {userName} saw a {favAnimal} listening to {favBand}.");
+
+        }
         
-
-        public static int Add(int numOne, int numTwo)
-        {
-            return numOne + numTwo;
-        }
-
-        public static int Subtract(int numOne, int numTwo)
-        {
-            return numOne - numTwo;
-        }
-
-        public static int Multiply(int numOne, int NumTwo)
-        {
-            return numOne * NumTwo;
-        }
-
-        public static int Divide(int numOne, int numTwo)
-        {
-            return numOne / numTwo;
-        }
         static void Main(string[] args)
         {
-           Console.WriteLine(Add(numOne:2, numTwo:2));
-           //int addedNums = Add(numOne: 2, numTwo: 2);
-           //Console.WriteLine(addedNums);
-           //Console.WriteLine(Subtract(numOne:2, numTwo:2));
-           //Console.WriteLine(Multiply(numOne:2, NumTwo:2));
-           Console.WriteLine(Divide(numOne:2, numTwo:2));
+          Madlib(); 
 
         }
     }
